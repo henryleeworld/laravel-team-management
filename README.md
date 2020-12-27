@@ -1,6 +1,6 @@
-# Laravel 7 團隊管理
+# Laravel 8 團隊管理
 
-面臨未來不一樣的團隊型態管理，必須透過有效系統機制凝聚團隊成員充分發揮最大團隊執行效能。Laravel 7 團隊管理主要是用的 [QuickAdminPanel](https://quickadminpanel.com) 生成的，除了一些定制代碼，可依需求彈性改造的工具。
+面臨未來不一樣的團隊型態管理，必須透過有效系統機制凝聚團隊成員充分發揮最大團隊執行效能。Laravel 8 團隊管理主要是用的 [QuickAdminPanel](https://quickadminpanel.com) 生成的，除了一些定制代碼，可依需求彈性改造的工具。
 
 ## 使用方式
 - 把整個專案複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
@@ -26,8 +26,8 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/tjyFDfa.png)
+![](https://i.imgur.com/EzKPilF.png)
 > 進行所有團隊的管理
 
-![](https://i.imgur.com/cM1Q0mq.png)
+![](https://i.imgur.com/CNUSVn3.png)
 > 透過有效系統機制凝聚團隊成員充分發揮最大團隊執行效能

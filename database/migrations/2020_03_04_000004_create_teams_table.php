@@ -9,11 +9,10 @@ return new class extends Migration
     public function up()
     {
         Schema::create('teams', function (Blueprint $table) {
-            $table->increments('id');
+            $table->id();
             $table->string('name')->nullable();
             $table->timestamps();
             $table->softDeletes();
         });
-
     }
 };
